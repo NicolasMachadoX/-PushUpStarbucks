@@ -1,0 +1,45 @@
+.bodyProducts{
+    padding: 5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:auto;
+    height: 50em;
+}
+
+.rigth{
+    display: flex;
+    justify-content: center;
+}
+
+.product{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width:auto;
+    height: 50em;
+}
+
+.titCont, .descCont{
+    margin: 1em;
+    
+}
+.titulo{
+    font-size: 56px;
+}
+
+.descripcion{
+    margin: 0.5em;
+}
+
+.contInicioTitle{
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.realImage{
+    border-radius: 1em;
+}

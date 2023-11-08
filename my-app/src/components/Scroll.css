@@ -1,0 +1,40 @@
+.scrollContainer{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: 8em;
+    margin-bottom: 1em;
+
+}
+.itemScroll{
+    display: flex;
+    align-items: center;
+}
+
+.scroll{
+    display: flex;
+    justify-content: center;
+    height: 8em;
+    width: 40em;
+    overflow: scroll;
+    background-color: rgba(75, 75, 75, 0.637);
+    color: aliceblue;
+    
+}
+
+.ulScroll{
+    display:flex ;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.textScroll{
+    padding: 0.5em;
+    width: 10em;
+    }
+
+
+.imgScroll{
+    width: 5em;
+    height: 5em;
+}

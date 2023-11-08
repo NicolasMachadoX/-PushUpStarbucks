@@ -1,0 +1,15 @@
+
+.imgSidebar{
+
+    width: 4em;
+    height: 4em;
+}
+
+.ulSide{
+
+    list-style: none;
+}
+
+.ulLink{
+    margin: 0.5em;
+}
